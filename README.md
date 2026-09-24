@@ -190,7 +190,7 @@
 
 1. Клонировать репозиторий:
 ```bash
-   git clone startup_analysis.ipynb
+   git clone https://github.com/arafion-lomendil/startup_project/
 ```
 2. Установить зависимости:
 ```bash
